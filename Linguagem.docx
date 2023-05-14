@@ -1,3 +1,6 @@
-Javascript é uma linguagem de categoria imperativa;
+Javascript é uma linguagem com boa legibilidade, boa redigibilidade (devido ao seu grande numero de métodos já preparados), mas de pouca confiabilidade devido às suas verificações pouco rigorosas,
+de categoria imperativa e suportando os paradigmas de orientação a objetos e declarativo;
 fracamente e dinamicamente tipada;
-e interpretada.
+e interpretada;
+possui como dados primitivos os booleanos, null, undefined, number(inteiros ou ponto flutuante), symbol e object;
+o identificador de variáveis pode assumir qualquer tamanho ou nome não reservado pela linguagem;
