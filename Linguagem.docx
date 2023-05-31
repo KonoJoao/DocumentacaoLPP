@@ -2,5 +2,6 @@ Javascript é uma linguagem com boa legibilidade, boa redigibilidade (devido ao 
 de categoria imperativa e suportando os paradigmas de orientação a objetos e declarativo;
 fracamente e dinamicamente tipada;
 e interpretada;
-possui como dados primitivos os booleanos, null, undefined, number(inteiros ou ponto flutuante), symbol e object;
+possui como dados primitivos os booleanos, null, undefined, number(inteiros ou ponto flutuante), symbol e object. Para fins de facilidade lógica, os tipos de dados primitivos são
+convertidos em objetos que carregarão um conjunto pré-definido de métodos para uso;
 o identificador de variáveis pode assumir qualquer tamanho ou nome não reservado pela linguagem;
